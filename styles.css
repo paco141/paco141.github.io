@@ -1,0 +1,16 @@
+.row
+{
+    padding: 40px;
+    
+
+}
+.card
+{align-content: center;
+    width:200px;
+    margin: 4px;
+    background-color: rgb(41, 139, 28);
+}
+body
+{
+    background-color: dimgray;
+}
